@@ -4,7 +4,9 @@
 
 > 아직 배울게 많은 개발자입니다.
 
-> 
+> 유저들이 재밌게 즐길 수 있게 게임을 만드려고 고민하는 개발자입니다.
+
+> 포기를 모르는 개발자입니다.
 
 **1999.11.28**<br/>
 :star2: **portfolio**&nbsp;&nbsp;https://www.notion.so/6b605ca2ee8a4cc1b68ad1eb92e7ad39 <br/>
